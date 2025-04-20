@@ -135,7 +135,7 @@
 .gallery-card {
   position: relative;
   border-radius: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 20px ! important;
 }
 
 .gallery-card:hover .gallery-image {
